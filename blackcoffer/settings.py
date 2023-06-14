@@ -73,7 +73,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = "blackcoffer.wsgi.application"
+WSGI_APPLICATION = "blackcoffer.wsgi.app"
 
 
 # Database
